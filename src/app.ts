@@ -4,12 +4,13 @@ const app : Application= express()
 
 
 //middleware
-app.use(cors())
 app.use(express.urlencoded({extended:true}))
+app.use(cors())
+
 
 
 //routes
-app.get("/",(req,res)=>{
+app.get("/test",(req,res)=>{
     res.send("hello")
 })
 
