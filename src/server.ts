@@ -2,6 +2,7 @@ import mongoose from 'mongoose'
 import config from './config/index'
 import dotenv from 'dotenv'
 import app from './app'
+import { errorLogger, logger } from './shared/logger'
 
 dotenv.config()
 async function main() {
@@ -9,12 +10,12 @@ async function main() {
     await mongoose.connect(config.database_url as string)
 
     app.listen(config.port, () => {
-      console.log(`server started at port ${config.port}`)
+      logger.info(`server started at port ${config.port}`)
     })
 
-    console.log('Server connected')
+    logger.info('Server connected')
   } catch (error) {
-    console.log('Server connection failed')
+    errorLogger.error('Server connection failed')
   }
 }
 

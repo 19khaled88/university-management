@@ -11,7 +11,7 @@ app.use(cors())
 //routes
 
 app.use('/api/v1', userRoute)
-
+// console.log(process.env.NODE_ENV)
 app.get('/test', async (req: Request, res: Response) => {
   await createUser({
     id: '999',

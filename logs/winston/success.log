@@ -1,0 +1,94 @@
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+{"level":"info","message":"Server connected"}
+{"level":"info","message":"server started at port 3090"}
+undefined
+undefined
+2023-06-07T17:06:50.222Z [error] info: Server connected
+2023-06-07T17:06:50.231Z [error] info: server started at port 3090
+2023-06-07T17:07:17.430Z [error] info: Server connected
+2023-06-07T17:07:17.447Z [error] info: server started at port 3090
+2023-06-07T17:07:23.576Z [info] info: Server connected
+2023-06-07T17:07:23.585Z [info] info: server started at port 3090
+2023-06-07T17:07:58.763Z [info] info: Server connected
+2023-06-07T17:07:58.771Z [info] info: server started at port 3090
+2023-06-07T17:11:48.090Z [info] info: Server connected
+2023-06-07T17:11:48.105Z [info] info: server started at port 3090
+2023-06-07T17:12:20.919Z [info] info: Server connected
+2023-06-07T17:12:20.929Z [info] info: server started at port 3090
+undefined [info] info: Server connected
+undefined [info] info: server started at port 3090
+Wed Jun 07 2023 [info] info: Server connected
+Wed Jun 07 2023 [info] info: server started at port 3090
+Wed Jun 07 2023 [info] info: Server connected
+Wed Jun 07 2023 [info] info: server started at port 3090
+Wed Jun 07 2023 { 23:14:25 } [info] info: Server connected
+Wed Jun 07 2023 { 23:14:25 } [info] info: server started at port 3090
+Wed Jun 07 2023  23:14:40  [info] info: Server connected
+Wed Jun 07 2023  23:14:40  [info] info: server started at port 3090
+{
+  message: 'Server connected',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-06-08T02:30:15.157Z'
+}
+{
+  message: 'server started at port 3090',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-06-08T02:30:15.195Z'
+}
+{
+  message: 'Server connected',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-06-08T15:58:36.099Z'
+}
+{
+  message: 'server started at port 3090',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-06-08T15:58:36.114Z'
+}
+{
+  message: 'Server connected',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-06-08T15:59:18.447Z'
+}
+{
+  message: 'server started at port 3090',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-06-08T15:59:18.464Z'
+}
